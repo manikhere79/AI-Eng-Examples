@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL Python files
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Data
+*.csv
+*.tsv
+*.jsonl
+
+# Others
+*.bak
+*.tmp
