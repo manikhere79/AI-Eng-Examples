@@ -1,4 +1,4 @@
-# Beginner guide for RAG
+# Beginner Guide for RAG
 
 ## Lessons Index
 
